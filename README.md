@@ -96,7 +96,7 @@ Installation
 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/your-username/freak-detector.git
+git clone https://github.com/yashwanthgalla/ReactionDetector.git
 cd freak-detector
 ```
 
